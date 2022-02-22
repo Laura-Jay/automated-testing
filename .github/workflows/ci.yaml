@@ -19,8 +19,4 @@ jobs:
       run: yarn lint
     - name: Check code test with Jest
       run: yarn test
-
-
-      name: Check tests with Jest
-      run: yarn test
       
